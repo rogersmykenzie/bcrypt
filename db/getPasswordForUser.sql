@@ -1,0 +1,1 @@
+SELECT password FROM site_users WHERE username = $1;
